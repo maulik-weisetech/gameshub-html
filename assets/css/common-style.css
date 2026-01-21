@@ -1,0 +1,111 @@
+.categories-list-bg .item a::after {background-image: var(--bg-image);background-size: cover;background-position: center;}
+.game-reviews-section .text-primary a{color: var(--primary-color);  }
+.game-reviews-section .text-primary a:hover {color: #fd6634;}
+.mp-profile-row .profile-item .details p .name a {color: #181818;text-decoration: none;}
+.page-template-game-review #review-mask{display: flex;}
+.page-template-site-review .review-tabs .tab-paragraphs {margin-bottom: 16px;}
+.online-casinos-grid.full {display: block;}
+.page-template-game-review .disclaimer-comman img{filter: invert(143%) sepia(0%) saturate(2767%) hue-rotate(216deg) brightness(0%) contrast(100%);vertical-align: middle;margin-right: 6px;}
+.game-review-list ul li a{color: #606060;}
+.category-banner .banner-text span.bio {font-family: "Helvetica";color: #333333;font-size: 18px;line-height: 28px;}
+.mp-breadcrumb.text-black li.active {color: #606060;}
+.mp-breadcrumb li.active {color: #E6E6F2;font-size: 13px;line-height: 20px;font-family: "Helvetica";}
+.guide-banner-section .profile-row .profile-item .details p .name a {color: #fff;}
+.disclaimer-comman p,
+.disclaimer-comman a{display: inline !important;font-size: 14px !important;line-height: 23px !important;font-style: normal !important;}
+.disclaimer-comman p strong,
+.disclaimer-comman p em {font-style: normal;font-weight: normal;}
+.disclaimer-comman p a {color: #fff;text-decoration: underline;}
+.disclaimer-comman {font-size: 14px;line-height: 23px;}
+.pt-8.button a{padding-top: 8px;text-decoration: underline;text-decoration-color: #06065C;color: #471C0E;font-weight: 400;font-size: 18px;line-height: 28px;}
+.contact-form-section .form .gform_fields{gap: 24px !important;} 
+.contact-form-section .form .form-group label,
+.contact-form-section .form .gfield--type-textarea label{color: #181818;font-size: 18px !important;line-height: 28px;margin-bottom: 8px;font-family: 'Helvetica';font-weight: 400;}
+.contact-form-section .form .form-group input,
+.contact-form-section .form .form-group select{background-color: #F6F6FA;border-radius: 4px;border: none;height: 44px;color: #606060;position: relative;font-size: 18px !important;font-family: 'Helvetica'; padding: 0 16px !important;}
+.contact-form-section .form .form-group select{background-image: url(../images/chevron-down-bottom-black.svg);background-position: right 10px center;background-repeat: no-repeat;background-size: 16px;-webkit-appearance: none;-moz-appearance: none;appearance: none; line-height: 44px;}
+
+.contact-form-section .form .form-group input:focus,
+.contact-form-section .form .form-group select:focus{outline: none;}
+
+.contact-form-section .form .form-control {border: none;padding: 0;}
+.contact-form-section .form .form-control .textarea{height: 164px;background-color: #F6F6FA;border-radius: 4px;border: none;color: #606060;position: relative;font-size: 18px;line-height: 28px;font-family: 'Helvetica';resize: none;}
+.contact-form-section .form .name_first{padding-right: 12px !important;}
+.contact-form-section .form .name_last{padding-left: 12px !important;}
+.contact-form-section .form .gform_footer {justify-content: center;margin: 24px 0 0 !important;padding: 0 !important;}
+.contact-form-section .form .gform_footer .orange-btn{margin: 0;}
+.category .game-reviews-section{padding-top: 0;}
+.disclaimer a {color: #39399A;cursor: pointer;}
+.experience-mega-moolah .stars {margin: 12px 0 0 0;}
+.experience-mega-moolah .star {width: 32px;height: 32px;background: url("../images/star-border.svg") no-repeat center;background-size: contain;cursor: pointer;}
+.experience-mega-moolah .star.active,.experience-mega-moolah .star.hover {background: url("../images/star.svg") no-repeat center;background-size: contain;}
+.rating-value {display: none;}
+.review-form {display: none;margin-top: 25px;}
+.review-form input,
+.review-form textarea {width: 100%;margin: 10px 0;padding: 10px;border-radius: 5px;font-size: 14px;border: none;background: #fff;}
+.review-form textarea {resize: none;}
+.mp-pagination li.disabled {opacity:.45;   pointer-events:none; }
+.mp-pagination li.loading { opacity:.6;   pointer-events:none; }
+.mp-pagination .dots {pointer-events: none;}
+#reviews-container.loading {opacity: 0.4;pointer-events: none;position: relative;}
+#reviews-container.loading:after {content: "Loading...";position: absolute;left: 50%;top: 50%;transform: translate(-50%,-50%);font-weight: bold;}
+.page-template-guide .category-featured-guides-slider .slick-slide{width: calc(100% / 4);height: auto;}
+.page-template-guide .slick-track {width: 100% !important;transform: unset !important;display: flex;gap: 0;grid-template-columns: repeat(4, 1fr);flex-wrap: wrap;row-gap: 24px;}
+.page-template-guide .slick-track:before{display: none;}
+.page-template-guide .featured-guide-item {height: 100%;}
+.page-template-guide .gaming-portal-section{margin-bottom: 0;}
+.contact-form-section #gform_submit_button_1.orange-btn.button, .contact-form-section #gform_submit_button_2.orange-btn.button{ background-color: #e65d2f;border-radius: 4px;min-width: 240px;min-height: 48px;font-weight: 700;text-transform: uppercase;font-size: 16px;line-height: 26px;letter-spacing: 0.3px;color: #fff;display: inline-flex;align-items: center;justify-content: center;padding: 0 15px;font-family: "Helvetica";border: none;}
+.logo-table .get-offer-btn:hover{ background-color: #e65d2f; border-color: #e65d2f; }
+.blue-card-slider { touch-action: pan-y; }
+.slide-card a { pointer-events: auto; }
+.gform_wrapper .gfield_error input:not([type="checkbox"]):not([type="radio"]):not([type="submit"]) { border: 1px solid #c02b0a !important; }
+.gform_wrapper .gfield_error textarea { border: 1px solid #c02b0a !important; }
+.gform_wrapper .gfield_error select { border: 1px solid #c02b0a !important; }
+.gform_wrapper .gfield_error label, .gform_wrapper .gfield_validation_message { color: #c02b0a; }
+
+html[lang="ja"] .home .game-reviews-section p,
+html[lang="ja"] .home .gambling-news-section .feature-duides .accordion .accordion-item .accordion-content p a {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+@media screen and (max-width: 1199px) {
+  .page-template-guide .category-featured-guides-slider .slick-slide {width: calc(100% / 3);}
+}
+
+@media screen and (max-width: 991px) {
+  .page-template-guide .category-featured-guides-slider .slick-slide {width: calc(100% / 2);}
+}
+
+@media (min-width: 768px) {
+  .mobile-menu-title {display: none;}
+}
+
+@media screen and (max-width: 767px) {
+  .single-column-menu > ul > li:nth-child(2) {display: none;}
+  .experience-mega-moolah .star {width: 24px;height: 24px;}
+  .game-review-list ul{display: block !important;}
+  .page-template-guide .slick-track{row-gap: 4px;}
+  .page-template-guide .category-featured-guides-slider .slick-slide {width: calc(100% / 1);}
+  .page-template-guide .featured-guide-item {padding: 16px;}
+  .page-template-guide .featured-guide-item h5 {font-size: 18px;line-height: 26px;}
+  .page-template-guide .featured-guide-item .content p,
+  .page-template-guide .featured-guide-item .feature-duides-author :is(strong, span){font-size: 15px;line-height: 22px;}
+  .page-template-guide .featured-guide-item .feature-duides-author {margin-top: 24px;}
+}
+
+@media screen and (max-width: 640px) {
+  .contact-form-section .form .name_first{padding-right: 0px !important;margin: 0 0 24px 0 !important;}
+  .contact-form-section .form .name_last{padding-left: 0px !important;margin: 0 !important;}
+  .contact-form-section .form .gform_footer .orange-btn {min-height: 48px !important;}
+}
+
+@media screen and (max-width: 575px) {
+  .mp-breadcrumb li.active {font-size: 12px !important;line-height: 17px !important;}
+  .disclaimer-comman p, .disclaimer-comman .read-more,.disclaimer-comman {font-size: 13px !important;line-height: 20px !important;}
+  .contact-form-section .form .form-group label,.contact-form-section .form .gfield--type-textarea label{font-size: 17px !important;line-height: 26px;padding: 0 !important;}
+}
