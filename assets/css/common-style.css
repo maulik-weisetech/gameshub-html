@@ -96,6 +96,10 @@ html[lang="ja"] .home .gambling-news-section .feature-duides .accordion .accordi
   .page-template-guide .featured-guide-item .content p,
   .page-template-guide .featured-guide-item .feature-duides-author :is(strong, span){font-size: 15px;line-height: 22px;}
   .page-template-guide .featured-guide-item .feature-duides-author {margin-top: 24px;}
+  .contact-form-section .form .form-group input, 
+  .contact-form-section .form .form-group select{font-size: 17px !important;}
+  .contact-form-section .form .form-group label,
+  .contact-form-section .form .gfield--type-textarea label{font-size: 17px !important;line-height: 26px;padding: 0 !important;}
 }
 
 @media screen and (max-width: 640px) {
@@ -106,6 +110,5 @@ html[lang="ja"] .home .gambling-news-section .feature-duides .accordion .accordi
 
 @media screen and (max-width: 575px) {
   .mp-breadcrumb li.active {font-size: 12px !important;line-height: 17px !important;}
-  .disclaimer-comman p, .disclaimer-comman .read-more,.disclaimer-comman {font-size: 13px !important;line-height: 20px !important;}
-  .contact-form-section .form .form-group label,.contact-form-section .form .gfield--type-textarea label{font-size: 17px !important;line-height: 26px;padding: 0 !important;}
+  .disclaimer-comman p, .disclaimer-comman .read-more,.disclaimer-comman {font-size: 13px !important;line-height: 20px !important;}  
 }
